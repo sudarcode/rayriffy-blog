@@ -6,9 +6,9 @@ module.exports = {
       resolve: `gatsby-theme-rayriffy-blog`,
       options: {
         contentful: {
-          space: CONTENTFUL_SPACE_ID,
-          token: CONTENTFUL_ACCESS_TOKEN,
-          preview: CONTENTFUL_PREVIEW === 'true',
+          space: uc9ip6s4tbfs,
+          token: WzCKKsVn5_cg4jgjC7gHpA0P-nneymLUVojmRahgYDQ,
+          preview: 9g0vY_dq9TGOLMCNvMayd5htSpBMoloSj1Ct2bKvF_o === 'true',
         },
         seo: {
           meta: {
